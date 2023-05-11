@@ -1,0 +1,487 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/AdobeFnt23.lst
+FileLength:11939
+FileModTime:705422537
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Bold
+FamilyName:Favorit Pro
+StyleName:Bold
+MenuName:Favorit Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/FavoritPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231372
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Bold
+NameArray:0,Mac,4,Favorit Pro Bold
+NameArray:0,Win,1,Favorit Pro
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-BoldItalic
+FamilyName:Favorit Pro
+StyleName:Bold Italic
+MenuName:Favorit Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Favorit Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/FavoritPro-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242204
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Bold Italic
+NameArray:0,Mac,4,Favorit Pro Bold Italic
+NameArray:0,Win,1,Favorit Pro
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Book
+FamilyName:Favorit Pro
+StyleName:Book
+MenuName:Favorit Pro Book
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Book
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/FavoritPro-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:232108
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Book
+NameArray:0,Mac,4,Favorit Pro Book
+NameArray:0,Win,1,Favorit Pro Book
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Regular
+FamilyName:Favorit Pro
+StyleName:Regular
+MenuName:Favorit Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Regular
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/FavoritPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228644
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Regular
+NameArray:0,Mac,4,Favorit Pro Regular
+NameArray:0,Win,1,Favorit Pro
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeBold
+FamilyName:GT Cinetype
+StyleName:Bold
+MenuName:GT Cinetype Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Bold
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Cinetype-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147476
+FileModTime:444673999
+NameArray:0,Mac,4,GT Cinetype Bold
+NameArray:0,Win,1,GT Cinetype Bold
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeRegular
+FamilyName:GT Cinetype
+StyleName:Regular
+MenuName:GT Cinetype Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Regular
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Cinetype.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145212
+FileModTime:444674017
+NameArray:0,Mac,4,GT Cinetype Regular
+NameArray:0,Win,1,GT Cinetype Regular
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-Bold
+FamilyName:GT Sectra
+StyleName:Bold
+MenuName:GTSectra-Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GTSectra-Bold
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Sectra-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:316040
+FileModTime:610446069
+NameArray:0,Mac,4,GTSectra-Bold
+NameArray:0,Win,1,GTSectra-Bold
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-BookItalic
+FamilyName:GT Sectra
+StyleName:Book Italic
+MenuName:GTSectra-BookItalic
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:GTSectra-BookItalic
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Sectra-Book-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:292040
+FileModTime:541419617
+NameArray:0,Mac,4,GTSectra-BookItalic
+NameArray:0,Win,1,GTSectra-BookItalic
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-Book
+FamilyName:GT Sectra
+StyleName:Book
+MenuName:GTSectra-Book
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:GTSectra-Book
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Sectra-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:307340
+FileModTime:541419622
+NameArray:0,Mac,4,GTSectra-Book
+NameArray:0,Win,1,GTSectra-Book
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectraFine-Book
+FamilyName:GT Sectra Fine
+StyleName:Book
+MenuName:GTSectraFine-Book
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:GTSectraFine-Book
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Sectra-Fine-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:285964
+FileModTime:501971999
+NameArray:0,Mac,4,GTSectraFine-Book
+NameArray:0,Win,1,GTSectraFine-Book
+NameArray:0,Win,16,GT Sectra Fine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectraFine-RegularItalic
+FamilyName:GT Sectra Fine
+StyleName:Regular Italic
+MenuName:GTSectraFine-RegularItalic
+StyleBits:1
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:GTSectraFine-RegularItalic
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/GT-Sectra-Fine-Regular-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:285036
+FileModTime:501971323
+NameArray:0,Mac,4,GTSectraFine-RegularItalic
+NameArray:0,Win,1,GTSectraFine-RegularItalic
+NameArray:0,Win,16,GT Sectra Fine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:702901156
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+MenuName:Times New Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:834452
+FileModTime:705422537
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Burgess-Regular
+FamilyName:Burgess
+StyleName:Regular
+MenuName:Burgess
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Burgess
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/burgess-regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231472
+FileModTime:634159598
+NameArray:0,Mac,18,Burgess
+NameArray:0,Mac,4,Burgess
+NameArray:0,Win,1,Burgess
+NameArray:0,Win,16,Burgess
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+MenuName:Times
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times Bold
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/Times.ttc
+TTCOffset:388
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:705422537
+NameArray:0,Mac,4,Times Bold
+NameArray:0,Mac,4,Times Gras
+NameArray:0,Mac,4,Times Fett
+NameArray:0,Mac,4,Times grassetto
+NameArray:0,Mac,4,Times vet
+NameArray:0,Mac,4,Times Fet
+NameArray:0,Mac,4,Times Negrita
+NameArray:0,Mac,4,Times Fed
+NameArray:0,Mac,4,Times Carregado
+NameArray:0,Mac,4,Times Halvfet
+NameArray:0,Mac,4,Times lihava
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+MenuName:Times
+StyleBits:1
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/Times.ttc
+TTCOffset:1084
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:705422537
+NameArray:0,Mac,4,Times Bold Italic
+NameArray:0,Mac,4,Times Gras italique
+NameArray:0,Mac,4,Times Fett Kursiv
+NameArray:0,Mac,4,Times grassetto corsivo
+NameArray:0,Mac,4,Times vet-cursief
+NameArray:0,Mac,4,Times Fet Kursiv
+NameArray:0,Mac,4,Times Negrita Cursiva
+NameArray:0,Mac,4,Times Fed kursiv
+NameArray:0,Mac,4,Times Carregado Itálico
+NameArray:0,Mac,4,Times Halvfet kursiv
+NameArray:0,Mac,4,Times lihava kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+MenuName:Times
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times Italic
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/Times.ttc
+TTCOffset:736
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:705422537
+NameArray:0,Mac,4,Times Italic
+NameArray:0,Mac,4,Times Italique
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times corsivo
+NameArray:0,Mac,4,Times cursief
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times Cursiva
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times Itálico
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+MenuName:Times
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times Roman
+WritingScript:Roman
+OutlineFileName:/Users/omen/Documents/INSANE_BA_23/01_Thesis/07_Layout/01_Sketch/230510_Thesis_Sketch Folder/Document fonts/Times.ttc
+TTCOffset:40
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:915932
+FileModTime:705422537
+NameArray:0,Mac,4,Times Roman
+%EndFont
+
