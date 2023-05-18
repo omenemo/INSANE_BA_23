@@ -1,0 +1,32 @@
+BA-Thesis Research Chapter
+
+- Björn Scheisse, Grundsatzdiskussionen zu Politik des Raumes
+
+- Statistik / numbers on usage of space in cities
+
+The median price for apartment rental per square feet in Zürich is at 19.9.- per Square feet 
+This Equals to a median of 1470.- in rental fees per month and 17'640.- in rental fees per year. (Netto, for 3-room apartments)
+
+The standardised size for a parking space in Switzerland (norm from VSS) is 5 x 2.35 Meters in length which equals to 11.75 square feet of parking space. When Rented at aforementioned average rental fee, these 11.75 square feet would cost about 2805.90.-
+
+The city of Zürich sells parking cards for their blue zone parking spaces for 300.- a year. This card has to be used in a registered light motor vehicle to allow parking in any blue zone space in the chosen district.
+
+According to the open data tool that the city of Zürich provides, there are about 49'000 open-air, roadside car-parking spaces in Zürich. Including the spaces in condensed parking infrastructure, such as parkinghouses this number grows to about 70'000 spaces.
+Averaging out the density of car-parking spaces per square kilometre this equals to about 800 parking spaces / square kilometre.
+When looking at the same numbers for bike parking infrastructure, the site lists about 2000 public bike parking spaces which are able to hold about 44'000 bikes, and calculating it down to average density per square feet, we come to a number of 500 bike parking spaces per square kilometre.
+
+With that count of parking spaces, we can calculate that in Zürich, about 575'750 square metres (0.575 Square Kilometers of ground are covered by Parking spaces. That is roughly the size of 80 soccer fields. Zürich itself is 87.88 square kilometres big.
+
+Usually parking spaces in Zürich are occupied to about 90% to 97% of the entire capacity. Which means that at any given time at least 44’100 cars are standing on the side of the road, in close proximity to a House.
+
+
+According to unparking, a project by the MIT senseable city lab, the average car sits parked 95% of its time.
+
+
+
+- Recap Literature Review
+
+- Recap Project Rewiew
+
+- Conclusion of Research
+
