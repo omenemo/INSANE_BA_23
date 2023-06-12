@@ -1,0 +1,294 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/AdobeFnt23.lst
+FileLength:7411
+FileModTime:707643406
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Bold
+FamilyName:Favorit Pro
+StyleName:Bold
+MenuName:Favorit Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/FavoritPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231372
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Bold
+NameArray:0,Mac,4,Favorit Pro Bold
+NameArray:0,Win,1,Favorit Pro
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Book
+FamilyName:Favorit Pro
+StyleName:Book
+MenuName:Favorit Pro Book
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Book
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/FavoritPro-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:232108
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Book
+NameArray:0,Mac,4,Favorit Pro Book
+NameArray:0,Win,1,Favorit Pro Book
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-BookItalic
+FamilyName:Favorit Pro
+StyleName:Book Italic
+MenuName:Favorit Pro Book
+StyleBits:1
+WeightClass:350
+WidthClass:5
+AngleClass:1
+FullName:Favorit Pro Book Italic
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/FavoritPro-BookItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:241632
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Book Italic
+NameArray:0,Mac,4,Favorit Pro Book Italic
+NameArray:0,Win,1,Favorit Pro Book
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Medium
+FamilyName:Favorit Pro
+StyleName:Medium
+MenuName:Favorit Pro Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Medium
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/FavoritPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:233412
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Medium
+NameArray:0,Mac,4,Favorit Pro Medium
+NameArray:0,Win,1,Favorit Pro Medium
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FavoritPro-Regular
+FamilyName:Favorit Pro
+StyleName:Regular
+MenuName:Favorit Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Favorit Pro Regular
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/FavoritPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228644
+FileModTime:688058868
+NameArray:0,Mac,18,Favorit Pro Regular
+NameArray:0,Mac,4,Favorit Pro Regular
+NameArray:0,Win,1,Favorit Pro
+NameArray:0,Win,16,Favorit Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeBold
+FamilyName:GT Cinetype
+StyleName:Bold
+MenuName:GT Cinetype Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Bold
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Cinetype-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147476
+FileModTime:444673999
+NameArray:0,Mac,4,GT Cinetype Bold
+NameArray:0,Win,1,GT Cinetype Bold
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeRegular
+FamilyName:GT Cinetype
+StyleName:Regular
+MenuName:GT Cinetype Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Regular
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Cinetype.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145212
+FileModTime:444674017
+NameArray:0,Mac,4,GT Cinetype Regular
+NameArray:0,Win,1,GT Cinetype Regular
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-BookItalic
+FamilyName:GT Sectra
+StyleName:Book Italic
+MenuName:GTSectra-BookItalic
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:GTSectra-BookItalic
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Sectra-Book-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:292040
+FileModTime:541419617
+NameArray:0,Mac,4,GTSectra-BookItalic
+NameArray:0,Win,1,GTSectra-BookItalic
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-Book
+FamilyName:GT Sectra
+StyleName:Book
+MenuName:GTSectra-Book
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:GTSectra-Book
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Sectra-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:307340
+FileModTime:541419622
+NameArray:0,Mac,4,GTSectra-Book
+NameArray:0,Win,1,GTSectra-Book
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectraFine-Bold
+FamilyName:GT Sectra Fine
+StyleName:Bold
+MenuName:GTSectraFine-Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GTSectraFine-Bold
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Sectra-Fine-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:295832
+FileModTime:526493851
+NameArray:0,Mac,4,GTSectraFine-Bold
+NameArray:0,Win,1,GTSectraFine-Bold
+NameArray:0,Win,16,GT Sectra Fine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GTSectra-Regular
+FamilyName:GT Sectra
+StyleName:Regular
+MenuName:GT Sectra Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GT Sectra Regular
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/Document fonts/GT-Sectra-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:365348
+FileModTime:705667499
+NameArray:0,Mac,4,GT Sectra Regular
+NameArray:0,Win,1,GT Sectra Regular
+NameArray:0,Win,16,GT Sectra
+%EndFont
+
