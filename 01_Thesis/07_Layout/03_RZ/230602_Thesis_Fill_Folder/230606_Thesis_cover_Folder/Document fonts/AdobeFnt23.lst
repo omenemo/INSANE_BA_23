@@ -1,0 +1,63 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/230606_Thesis_cover_Folder/Document fonts/AdobeFnt23.lst
+FileLength:1374
+FileModTime:707838450
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeBold
+FamilyName:GT Cinetype
+StyleName:Bold
+MenuName:GT Cinetype Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Bold
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/230606_Thesis_cover_Folder/Document fonts/GT-Cinetype-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147476
+FileModTime:444673999
+NameArray:0,Mac,4,GT Cinetype Bold
+NameArray:0,Win,1,GT Cinetype Bold
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GTCinetypeRegular
+FamilyName:GT Cinetype
+StyleName:Regular
+MenuName:GT Cinetype Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GT Cinetype Regular
+WritingScript:Roman
+OutlineFileName:/Users/nemobrigatti/Documents/INSANE_BA_23/01_Thesis/07_Layout/03_RZ/230602_Thesis_Fill_Folder/230606_Thesis_cover_Folder/Document fonts/GT-Cinetype.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145212
+FileModTime:444674017
+NameArray:0,Mac,4,GT Cinetype Regular
+NameArray:0,Win,1,GT Cinetype Regular
+NameArray:0,Win,16,GT Cinetype
+%EndFont
+
